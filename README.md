@@ -75,17 +75,17 @@ The histograms below illustrate the distribution of 1-year, 2-year, and
 negative price changes reflect the tool’s backtesting results for the
 stock screener’s performance over these timeframes.
 
-Contributing
+**Contributing
 
 Contributions are welcome! If you have suggestions or improvements, feel
 free to open an issue or submit a pull request.
 
-License
+**License
 
 This project is licensed under the MIT License. See the LICENSE file for
 details.
 
-Disclaimer
+**Disclaimer
 
 This tool is for educational purposes and should not be used as
 financial advice. Use it at your own risk.
