@@ -1,9 +1,3 @@
----
-editor_options: 
-  markdown: 
-    wrap: 72
----
-
 # Stock Screener Backtesting Tool
 
 This repository provides an R-based backtesting tool designed to analyze
